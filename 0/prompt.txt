@@ -1,0 +1,61 @@
+# Files pasted by the user:
+
+## "# SHIFT ## Change the requirement. Not the guarantees. ### Selected Track **Tra…": C:\Users\DELL\.codex/attachments/2e9a1faf-511b-4536-bce8-90d6f63fc89b/pasted-text.txt
+
+## My request:
+# Required Entire workflow
+
+Complete these steps after the 9:00 AM kickoff. All implementation must happen in the clone created through the Entire mirror workflow.
+
+## 1. Fork your selected repository
+
+Fork the repository associated with your chosen track only after the Buildathon begins. Use existing issues for inspiration, or propose an original feature, integration or workflow.
+
+## 2. Sign in and create the mirror
+
+entire login
+
+entire repo mirror create
+
+entire repo clone /gh/YOUR-GITHUB-HANDLE/REPOSITORY
+
+Select your fork and the India region when prompted. Clone through Entire, then work inside that clone.
+
+## 3. Enable checkpoints
+
+entire enable -y --agent YOUR-BUILD-AGENT
+
+entire status
+
+Commit meaningful milestones so code and context remain connected. Your checkpoint history must include at least:
+
+- Initial understanding and intended architecture.
+- The last stable state before the Noon Curveball.
+- Your response to the Noon Curveball.
+- Final implementation and verification.
+
+Checkpoint quality matters more than quantity. Capture decisions, rejected options, failures, assumptions, open risks and the evidence that changed your approach.
+
+## 4. Activate Entire Graph
+
+entire plugin install graph
+
+entire graph version
+
+entire graph init-agents --repo .
+
+Start a fresh agent session after activation so the agent receives the graph instructions. During development, show at least:
+
+- A graph search or definition lookup.
+- A relationship or impact analysis before a high-risk change.
+- A final semantic diff analysis of the submitted implementation.
+
+Graph results are evidence, not an oracle. Verify findings against source code, tests and runtime behavior. Never present incomplete or uncertain graph output as a fact.
+
+
+
+# [https://github.com/aviraj-singh1/cli](https://github.com/aviraj-singh1/cli)&#x20;
+
+do other works
+
+this is my prd&#x20;
