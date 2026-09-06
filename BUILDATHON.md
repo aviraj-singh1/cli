@@ -412,7 +412,7 @@ implementation behavior.
 ## Submission links
 
 - Branch: <https://github.com/aviraj-singh1/cli/tree/codex/shift-pre-curveball>
-- Final commit: <https://github.com/aviraj-singh1/cli/commit/b3b683b798c22a465180e97fc072c1e7521eb017>
+- Implementation commit: <https://github.com/aviraj-singh1/cli/commit/b3b683b798c22a465180e97fc072c1e7521eb017>
 
 ## Final positioning
 
